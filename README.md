@@ -19,11 +19,15 @@
 
 Нужно изменить параметры в адрессах для взаимодействия с рест сервисом.
 Файл: UserService.js
-
+<br></br>
 const USER_API_BASE_URL = "http://localhost:порт/test/service/getInfoUsersAll";
+<br></br>
 const USER_API_GETUSER_URL ="http://localhost:порт/test/service/getInfoUser/";
+<br></br>
 const USER_API_ADDUSER_URL ="http://localhost:порт/test/service/addUser";
+<br></br>
 const USER_API_GETINFO_URL = "http://localhost:порт/test/service/getInfo";
+<br></br>
 
 Значение порта можно получить из файла: application.properties Spring boot проекта.
 
