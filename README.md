@@ -31,4 +31,6 @@ server.port=порт
 
 # preview
 
-![alt text](startForm.png "Описание будет тут")​
+![alt text](startForm.png "Стартовая страница")​
+
+![alt text](ListEvent.png "Список событий по запросам")​
