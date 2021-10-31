@@ -34,9 +34,9 @@ const USER_API_GETINFO_URL = "http://localhost:порт/test/service/getInfo";
 server.port=порт
 
 # preview
-
+<p>Стартовая страница</p>
 ![alt text](startForm.png "Стартовая страница")​
-
+<p>Список событий по запросам</p>
 ![alt text](ListEvent.png "Список событий по запросам")​
-
+<p>Добавление пользователя</p>
 ![alt text](AddUser.png "Добавление пользователя")​
