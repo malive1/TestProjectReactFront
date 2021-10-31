@@ -28,3 +28,5 @@ const USER_API_GETINFO_URL = "http://localhost:порт/test/service/getInfo";
 Значение порта можно получить из файла: application.properties Spring boot проекта.
 
 server.port=порт
+
+![alt text](startForm.png "Описание будет тут")​
