@@ -34,3 +34,5 @@ server.port=порт
 ![alt text](startForm.png "Стартовая страница")​
 
 ![alt text](ListEvent.png "Список событий по запросам")​
+
+![alt text](AddUser.png "Добавление пользователя")​
