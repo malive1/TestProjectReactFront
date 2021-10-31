@@ -1,5 +1,9 @@
 import axios from 'axios';
 
+/**
+ * Main service for rest spring boot service.
+ */
+
 const USER_API_BASE_URL = "http://localhost:8080/test/service/getInfoUsersAll";
 const USER_API_GETUSER_URL ="http://localhost:8080/test/service/getInfoUser/";
 const USER_API_ADDUSER_URL ="http://localhost:8080/test/service/addUser";
