@@ -61,11 +61,11 @@ class CreateUserComponent extends Component {
         // step 5
         if(this.state.id === '_add'){
             UserService.createUser(userRest).then(res =>{
-                this.props.history.push('/userRests');
+                this.props.history.push('/usersall');
             });
         }else{
             UserService.updateuserRest(userRest, this.state.id).then( res => {
-                this.props.history.push('/userRests');
+                this.props.history.push('/usersall');
             });
         }
     }
